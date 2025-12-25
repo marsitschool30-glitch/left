@@ -1,0 +1,44 @@
+
+
+
+.man{
+ margin: 0px auto;
+   
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    list-style: none;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box{
+    margin: 100px auto;
+    width: 300px;
+   height: 300px;
+   border: 1px solid red;
+   background-color: rgb(212, 46, 17) ;
+    font-size: 50px;
+  padding: 100px;
+  box-sizing: border-box;
+  color: aliceblue;
+ 
+}
+
+
+
+.lalalal{
+   text-align: center;
+}
+
+.hahaha{
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    list-style: none;
+}
+
